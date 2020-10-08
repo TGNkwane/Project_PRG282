@@ -37,18 +37,24 @@ Key Time Drainers:
 
 One week, so that the students can get their evaluation reports during reccess.
 
-4. How long must the student data remain in the system? 
+4. How long must the student data remain in the system?
 
-How long the data remains in the database must be relative to the duration the student was in the colledge, meaning if
+How long the data remains in the database must be relative to the duration the student was in the college, meaning if
 it was a degree student the data should remain for 4 years.
 
 5. Will the new system increase or decrease job loses (especially the admin assistants)
 
+
 6. Where will the students access the evaulation form.
+
+On the student portal.
 
 7. What kind of Analysis will the data go through. (averages etc, 5 number summary)
 
 8. Will evaulatons be complusory?
+
+Yes, at the end of every sememster each student is supposed to fill in the evaluation form so that the department 
+heads can gain insights of the institution from a students perspective.
 
 9. Will the frequency of evalutons be more frequent should the time for feedback decrease?
 
