@@ -23,10 +23,19 @@ And since our faculty has been promising with constant growth since 2005, we hav
 6500 students every five years, therefore a cloud storage would be an option of choice
 
 2. How long does the whole process take? What are the key time drainers in the systems? 
+The whole proceess at the end of every semester when students are given the evaluations and it takes
+ approximately a week to two weeks as it has to be taken into consideration that the hard copy documents
+ need to be courriered to the destination where they will be processed and sent back to the college so that they can
+be available to students when they come back from recess which is three weeks.
+Key Time Drainers:
+-Taking the hard copy evaluation reports from the college to the IT service provider headquarters in order for them to be be digitised.
+- Compressing the digital evaluation reports in order for them to be sent to the department head.
+
 
 3. What is the budget? 
 
 4. What is the estimated timeframe for the completion of the system?
+One week, so that the students can get their evaluation reports during reccess.
 
 5. How long must the student data remain in the system? 
 
