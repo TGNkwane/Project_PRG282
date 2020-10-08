@@ -13,3 +13,19 @@ Adding Updated Database Script
 Adding Final Tweak Of The Form GUI
 Adding final fucntionality and methods to classses
 Code Refactor and integrtion
+
+//////////////////////////////////////////////////////////////////////////////
+Quetions:
+What do you use now for data storage and do you want to use cloud or local storage in the future?
+
+How long does the whole process take? What are the key time drainers in the systems? 
+
+What is the budget? 
+
+What is the estimated timeframe for the completion of the system?
+
+How long must the student data remain in the system? 
+
+
+
+Number of students  
