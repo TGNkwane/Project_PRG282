@@ -16,15 +16,22 @@ Code Refactor and integrtion
 
 //////////////////////////////////////////////////////////////////////////////
 Quetions:
-What do you use now for data storage and do you want to use cloud or local storage in the future?
+1. What do you use now for data storage and do you want to use cloud or local storage in the future?
 
-How long does the whole process take? What are the key time drainers in the systems? 
+The data storage that we use is the old traditional way where we store our files in boxes stored in a store room.
+And since our faculty has been promising with constant growth since 2005, we have managed to accomodate at least 
+6500 students every five years, therefore a cloud storage would be an option of choice
 
-What is the budget? 
+2. How long does the whole process take? What are the key time drainers in the systems? 
 
-What is the estimated timeframe for the completion of the system?
+3. What is the budget? 
 
-How long must the student data remain in the system? 
+4. What is the estimated timeframe for the completion of the system?
+
+5. How long must the student data remain in the system? 
+
+How long the data remains in the database must be relative to the duration the student was in the colledge, meaning if
+it was a degree student the data should remain for 4 years.
 
 
 
