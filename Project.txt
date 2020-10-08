@@ -44,12 +44,22 @@ it was a degree student the data should remain for 4 years.
 
 5. Will the new system increase or decrease job loses (especially the admin assistants)
 
+It will be dependent on whether the admin assistants can actually acquire the knowledge of operating the system in the allocated time for training completion.
+In the case where the employee fails to be able to operate/use the system, they will be given a second attempt and if that does not go well too, then they might 
+have to leave the organization. But regardless there will be few or close to no one being dismissed since our main objective is to invest in a system that will
+be simple to use.
 
 6. Where will the students access the evaulation form.
 
 On the student portal.
 
 7. What kind of Analysis will the data go through. (averages etc, 5 number summary)
+
+- Students requests that wrere approved
+- Total amount of students that managed to complete the evaluation 
+- Evaluations that were disregarded 
+- Average of students that completed the evaluation 
+- The average time it takes a student to complete the evaluation 
 
 8. Will evaulatons be complusory?
 
@@ -59,4 +69,6 @@ heads can gain insights of the institution from a students perspective.
 9. Will the frequency of evalutons be more frequent should the time for feedback decrease?
 
 10. Number of students currently enrolled and projected amount of students.
+
+15 000 students are currently enrolled at our college and our projected amount in the next 10 years is at least 25 000 to 30 000 students 
 
