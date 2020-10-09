@@ -88,4 +88,20 @@ B4.) Functional
 B5.) Functional
 B6.) Non-Functional
 
+Question 3
+i)	Use Cases:
+ATM
+Deposit Funds 
+Withdraw Cash
+Transfer Funds 
+Maintenance 
+Repairs
+ii)	Actors:
+Cashier
+Clerk 
+Bank Teller 
+iii)System Boundary:
+Bank Account System 
+
+
 
