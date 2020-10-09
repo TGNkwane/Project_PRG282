@@ -73,5 +73,19 @@ frequency of evaluations will remain constant, happening at the end of each seme
 
 10. Number of students currently enrolled and projected amount of students.
 
-15 000 students are currently enrolled at our college and our projected amount in the next 10 years is at least 25 000 to 30 000 students 
+15 000 students are currently enrolled at our college and our projected amount in the next 10 years is at least 25 000 to 30 000 students
+
+Test 1 SAD
+Question 2 
+A.) Business requirement are aligned with the companies best interests, so one could look at business requirement as the needs of a business, in instances where the system deployed is a software, we need to look at what the software needs to do for the user in order for the user’s needs to be fulfilled.
+System requirements are quite similar to the business requirement as they also need to be fulfilled in order to have fully functional system but system requirements have to do with the integration of components to make a fully integrated system, e.g a dashboard (Portal) is designed to display the marks of students in a varsity but for the system to be fully operational we need to have a place a place where the data is centrally located, maybe on the cloud.
+Before can call the system a portal, we need a cloud service to store the data so the cloud is a system requirement for a system which is the cloud.
+B.)
+B1.) Functional
+B2.) Non-Functional
+B3.) Functional
+B4.) Functional
+B5.) Functional
+B6.) Non-Functional
+
 
